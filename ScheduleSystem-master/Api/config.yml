@@ -1,0 +1,13 @@
+app_secret_key: UnsecureKeyDoNotUse
+database:
+  username: fernando
+  password: heineken
+  host: localhost:3306
+  schema: schedule_system
+smtp:
+  host: host
+  port: 123
+  email: fake@email.com
+  password: 123
+  use_tls: false
+  use_ssl: true
